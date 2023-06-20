@@ -1,0 +1,30 @@
+Piele Mihai Teodor, 331CB, tema1ASC
+
+Pentru a rezuma ce am implementat, o sa incep pe fisierele in care am scris functiile:
+
+Pentru fisierul consumer.py:
+-am parcurs lista de carturi data ca parametru, apoi mi-am creat un cart nou, in care adaug sau
+elimin produsele, in functie de tipul operatiei dat in lista de carturi;
+in cazul in care doresc sa adaug, insa functia add_to_cart nu imi permite, astept, altfel adaug
+pe partea de remove, nu am asemenea restrictii
+dupa ce adaug sau elimin, dau place_order, dupa care consumatorul va afisa
+produsele cumparate, pe scurt, cat timp pot consuma, consum
+
+Pentru fisierul producer.py:
+-am primit id-ul producatorului, dupa care parcurg lista de produse data ca parametru, si astept
+waiting time-ul fiecarui produs, dupa care, daca pot, ii dau publish, altfel astept, pe scurt,
+cat timp pot produce, produc
+
+pentru fisierul marketplace.py:
+-am inceput cu clasa de teste, in care am creat unittests pentru fiecare metoda ulterior implementata
+clasa de marketplace are un logger, folosit pt debug, iar in constructori, id-ul si listele aferente
+producatorilor si carturilor. in plus, am salvat toate lock-urile intr-o lista de lock-uri, pentru usurinta
+*register_producer si new_cart doar returneaza un int, reprezentand id-ul curent al producatorului respectiv
+cartului, dupa aceea incrementand valoarea din clasa; am folosit lock-uri, deoarece adunarea nu e thread safe
+*publish, in care pe baza id-ului producatorului, adaug in lista sa produsul, si in lista de produse per producator
+cantitatea acestora. am folosit un lokc pentru ca din nou, adunarea nu e thread safe, in schimb operatiile pe lista da
+(appent, remove etc)
+*add_to_cart, in care elimin din lista producatorilor produsul pe care ulterior il adaug in cosul de cumparaturi
+*remove_from_cart, care face inversul functiei de mai sus
+*place_order, in care creez o copie la lista de produse din cos, resetez cosul, si o returnez(lista)
+

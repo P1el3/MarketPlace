@@ -1,0 +1,396 @@
+21:51:20,215 root INFO error, max que size
+21:51:20,312 root INFO error, max que size
+21:51:20,313 root INFO order placed successfully
+21:51:20,314 root INFO error, max que size
+21:51:20,315 root INFO new cart with id: 570
+21:51:20,316 root INFO error, max que size
+21:51:20,318 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 569
+21:51:20,319 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 569
+21:51:20,319 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 569
+21:51:20,320 root INFO product Tea(name='White Peach', price=5, type='White') in cart 569
+21:51:20,321 root INFO order placed successfully
+21:51:20,321 root INFO error, max que size
+21:51:20,322 root INFO new cart with id: 571
+21:51:20,323 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,325 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,326 root INFO producer: 20 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,327 root INFO error, max que size
+21:51:20,327 root INFO error, max que size
+21:51:20,328 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,329 root INFO error, max que size
+21:51:20,330 root INFO error, max que size
+21:51:20,331 root INFO producer: 12 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,331 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,332 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,333 root INFO error, max que size
+21:51:20,334 root INFO producer: 14 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,335 root INFO error, max que size
+21:51:20,335 root INFO error, max que size
+21:51:20,336 root INFO error, max que size
+21:51:20,337 root INFO producer: 1 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,338 root INFO producer: 9 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,338 root INFO error, max que size
+21:51:20,339 root INFO error, max que size
+21:51:20,340 root INFO producer: 3 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,341 root INFO producer: 3 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,342 root INFO product Tea(name='White Peach', price=5, type='White') in cart 570
+21:51:20,342 root INFO product Tea(name='White Peach', price=5, type='White') in cart 570
+21:51:20,343 root INFO producer: 17 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,344 root INFO error, max que size
+21:51:20,345 root INFO order placed successfully
+21:51:20,346 root INFO error, max que size
+21:51:20,346 root INFO new cart with id: 572
+21:51:20,347 root INFO error, max que size
+21:51:20,349 root INFO error, max que size
+21:51:20,350 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 571
+21:51:20,351 root INFO producer: 2 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,351 root INFO producer: 10 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,352 root INFO producer: 10 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,354 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,355 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,355 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,356 root INFO error, max que size
+21:51:20,357 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,358 root INFO producer: 14 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,359 root INFO producer: 1 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,360 root INFO error, max que size
+21:51:20,361 root INFO producer: 13 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:20,361 root INFO error, max que size
+21:51:20,362 root INFO error, max que size
+21:51:20,363 root INFO order placed successfully
+21:51:20,363 root INFO producer: 21 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:20,364 root INFO new cart with id: 573
+21:51:20,365 root INFO error, max que size
+21:51:20,366 root INFO product Tea(name='White Peach', price=5, type='White') in cart 570
+21:51:20,367 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 570
+21:51:20,368 root INFO product: Tea(name='White Peach', price=5, type='White') removed from cart: 570
+21:51:20,368 root INFO producer: 19 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,369 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 572
+21:51:20,370 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 572
+21:51:20,371 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 572
+21:51:20,371 root INFO product: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') removed from cart: 572
+21:51:20,372 root INFO error, max que size
+21:51:20,373 root INFO error, max que size
+21:51:20,374 root INFO producer: 10 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,375 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,376 root INFO producer: 12 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,379 root INFO producer: 12 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,380 root INFO error, max que size
+21:51:20,382 root INFO producer: 3 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,382 root INFO producer: 18 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:20,383 root INFO producer: 11 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,384 root INFO producer: 11 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,385 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 573
+21:51:20,386 root INFO error, max que size
+21:51:20,386 root INFO producer: 17 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,387 root INFO error, max que size
+21:51:20,388 root INFO product: Tea(name='White Peach', price=5, type='White') removed from cart: 570
+21:51:20,388 root INFO producer: 19 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,390 root INFO error, max que size
+21:51:20,390 root INFO error, max que size
+21:51:20,392 root INFO product: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') removed from cart: 567
+21:51:20,392 root INFO producer: 12 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,395 root INFO error, max que size
+21:51:20,396 root INFO error, max que size
+21:51:20,397 root INFO producer: 4 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:20,398 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,399 root INFO error, max que size
+21:51:20,400 root INFO error, max que size
+21:51:20,401 root INFO producer: 14 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,402 root INFO producer: 18 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:20,403 root INFO error, max que size
+21:51:20,405 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 573
+21:51:20,406 root INFO error, max que size
+21:51:20,407 root INFO producer: 20 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,408 root INFO error, max que size
+21:51:20,409 root INFO error, max que size
+21:51:20,410 root INFO error, max que size
+21:51:20,411 root INFO error, max que size
+21:51:20,412 root INFO error, max que size
+21:51:20,412 root INFO order placed successfully
+21:51:20,413 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 571
+21:51:20,413 root INFO new cart with id: 574
+21:51:20,414 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 571
+21:51:20,416 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 571
+21:51:20,417 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 571
+21:51:20,417 root INFO producer: 4 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:20,418 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,419 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 573
+21:51:20,420 root INFO error, max que size
+21:51:20,421 root INFO producer: 20 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,422 root INFO error, max que size
+21:51:20,423 root INFO producer: 12 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,423 root INFO producer: 14 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,424 root INFO producer: 14 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,425 root INFO producer: 0 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,427 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 571
+21:51:20,428 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 571
+21:51:20,428 root INFO order placed successfully
+21:51:20,429 root INFO producer: 13 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:20,430 root INFO producer: 20 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,432 root INFO error, max que size
+21:51:20,433 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 574
+21:51:20,435 root INFO producer: 1 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,437 root INFO producer: 1 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,439 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 573
+21:51:20,443 root INFO product: Tea(name='Vietnam Oolong', price=10, type='Oolong') removed from cart: 573
+21:51:20,444 root INFO error, max que size
+21:51:20,447 root INFO error, max que size
+21:51:20,449 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 574
+21:51:20,452 root INFO producer: 10 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,453 root INFO error, max que size
+21:51:20,456 root INFO producer: 10 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,458 root INFO producer: 9 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,460 root INFO error, max que size
+21:51:20,463 root INFO error, max que size
+21:51:20,466 root INFO order placed successfully
+21:51:20,466 root INFO error, max que size
+21:51:20,475 root INFO new cart with id: 575
+21:51:20,478 root INFO error, max que size
+21:51:20,506 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 574
+21:51:20,510 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 574
+21:51:20,511 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 574
+21:51:20,513 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 574
+21:51:20,517 root INFO order placed successfully
+21:51:20,517 root INFO producer: 11 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,520 root INFO error, max que size
+21:51:20,521 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,522 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,523 root INFO producer: 14 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,524 root INFO producer: 7 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,526 root INFO error, max que size
+21:51:20,528 root INFO error, max que size
+21:51:20,536 root INFO producer: 17 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,537 root INFO producer: 18 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,539 root INFO producer: 18 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,543 root INFO error, max que size
+21:51:20,549 root INFO producer: 1 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,551 root INFO error, max que size
+21:51:20,553 root INFO error, max que size
+21:51:20,556 root INFO error, max que size
+21:51:20,557 root INFO producer: 0 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,560 root INFO producer: 11 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,562 root INFO error, max que size
+21:51:20,566 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,567 root INFO producer: 14 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,568 root INFO producer: 5 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,568 root INFO error, max que size
+21:51:20,569 root INFO error, max que size
+21:51:20,570 root INFO error, max que size
+21:51:20,572 root INFO producer: 9 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,573 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 575
+21:51:20,574 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 575
+21:51:20,576 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 575
+21:51:20,576 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 575
+21:51:20,577 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 575
+21:51:20,578 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 575
+21:51:20,578 root INFO error, max que size
+21:51:20,580 root INFO error, max que size
+21:51:20,580 root INFO error, max que size
+21:51:20,581 root INFO producer: 11 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,582 root INFO error, max que size
+21:51:20,583 root INFO producer: 11 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,584 root INFO producer: 14 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,585 root INFO producer: 13 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,586 root INFO error, max que size
+21:51:20,587 root INFO producer: 9 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,587 root INFO error, max que size
+21:51:20,588 root INFO error, max que size
+21:51:20,589 root INFO error, max que size
+21:51:20,590 root INFO producer: 1 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,591 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,592 root INFO error, max que size
+21:51:20,593 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,593 root INFO error, max que size
+21:51:20,594 root INFO error, max que size
+21:51:20,595 root INFO order placed successfully
+21:51:20,595 root INFO error, max que size
+21:51:20,596 root INFO new cart with id: 576
+21:51:20,597 root INFO error, max que size
+21:51:20,598 root INFO product: Tea(name='Vietnam Oolong', price=10, type='Oolong') removed from cart: 573
+21:51:20,598 root INFO error, max que size
+21:51:20,626 root INFO producer: 21 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,647 root INFO producer: 13 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,648 root INFO error, max que size
+21:51:20,651 root INFO producer: 1 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,656 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,657 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,658 root INFO error, max que size
+21:51:20,659 root INFO error, max que size
+21:51:20,660 root INFO error, max que size
+21:51:20,661 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 576
+21:51:20,662 root INFO order placed successfully
+21:51:20,662 root INFO error, max que size
+21:51:20,664 root INFO producer: 12 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,666 root INFO error, max que size
+21:51:20,668 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,670 root INFO error, max que size
+21:51:20,671 root INFO error, max que size
+21:51:20,672 root INFO error, max que size
+21:51:20,674 root INFO error, max que size
+21:51:20,676 root INFO error, max que size
+21:51:20,677 root INFO producer: 20 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,677 root INFO error, max que size
+21:51:20,679 root INFO error, max que size
+21:51:20,681 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,682 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,683 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,684 root INFO producer: 2 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,686 root INFO error, max que size
+21:51:20,687 root INFO producer: 10 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,687 root INFO producer: 10 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,688 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,689 root INFO error, max que size
+21:51:20,690 root INFO producer: 20 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,690 root INFO error, max que size
+21:51:20,691 root INFO error, max que size
+21:51:20,692 root INFO error, max que size
+21:51:20,693 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,693 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,694 root INFO error, max que size
+21:51:20,695 root INFO error, max que size
+21:51:20,695 root INFO product: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') removed from cart: 572
+21:51:20,696 root INFO producer: 0 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,697 root INFO producer: 0 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,698 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,699 root INFO error, max que size
+21:51:20,699 root INFO error, max que size
+21:51:20,700 root INFO producer: 2 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:20,701 root INFO error, max que size
+21:51:20,702 root INFO producer: 14 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,702 root INFO producer: 9 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,703 root INFO error, max que size
+21:51:20,704 root INFO error, max que size
+21:51:20,704 root INFO producer: 0 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,705 root INFO producer: 1 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,706 root INFO producer: 10 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,707 root INFO producer: 11 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,708 root INFO producer: 11 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,710 root INFO error, max que size
+21:51:20,710 root INFO error, max que size
+21:51:20,711 root INFO producer: 17 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,712 root INFO producer: 11 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,712 root INFO error, max que size
+21:51:20,713 root INFO order placed successfully
+21:51:20,713 root INFO error, max que size
+21:51:20,715 root INFO error, max que size
+21:51:20,715 root INFO producer: 17 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:20,716 root INFO producer: 11 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:20,717 root INFO producer: 3 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,718 root INFO error, max que size
+21:51:20,718 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 575
+21:51:20,718 root INFO error, max que size
+21:51:20,720 root INFO producer: 3 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,720 root INFO producer: 3 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,721 root INFO error, max que size
+21:51:20,722 root INFO producer: 19 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:20,722 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,723 root INFO error, max que size
+21:51:20,724 root INFO product: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') removed from cart: 572
+21:51:20,724 root INFO producer: 19 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:20,725 root INFO error, max que size
+21:51:20,726 root INFO error, max que size
+21:51:20,727 root INFO producer: 14 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,727 root INFO error, max que size
+21:51:20,728 root INFO producer: 2 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,729 root INFO producer: 1 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,730 root INFO error, max que size
+21:51:20,731 root INFO producer: 10 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,732 root INFO error, max que size
+21:51:20,732 root INFO error, max que size
+21:51:20,733 root INFO error, max que size
+21:51:20,734 root INFO error, max que size
+21:51:20,735 root INFO error, max que size
+21:51:20,735 root INFO error, max que size
+21:51:20,736 root INFO error, max que size
+21:51:20,737 root INFO error, max que size
+21:51:20,737 root INFO error, max que size
+21:51:20,738 root INFO error, max que size
+21:51:20,740 root INFO error, max que size
+21:51:20,742 root INFO order placed successfully
+21:51:20,742 root INFO error, max que size
+21:51:20,743 root INFO new cart with id: 577
+21:51:20,743 root INFO order placed successfully
+21:51:20,743 root INFO producer: 12 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,748 root INFO producer: 12 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,749 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 577
+21:51:20,750 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 577
+21:51:20,751 root INFO error, max que size
+21:51:20,752 root INFO producer: 12 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,752 root INFO error, max que size
+21:51:20,753 root INFO error, max que size
+21:51:20,754 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 577
+21:51:20,754 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 577
+21:51:20,755 root INFO error, max que size
+21:51:20,756 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 577
+21:51:20,756 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 577
+21:51:20,792 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 577
+21:51:20,848 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 577
+21:51:20,862 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 577
+21:51:20,865 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 577
+21:51:20,869 root INFO product: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') removed from cart: 577
+21:51:20,869 root INFO error, max que size
+21:51:20,874 root INFO error, max que size
+21:51:20,876 root INFO error, max que size
+21:51:20,878 root INFO error, max que size
+21:51:20,880 root INFO error, max que size
+21:51:20,883 root INFO error, max que size
+21:51:20,888 root INFO error, max que size
+21:51:20,896 root INFO producer: 1 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:20,900 root INFO error, max que size
+21:51:20,904 root INFO error, max que size
+21:51:20,906 root INFO error, max que size
+21:51:20,908 root INFO error, max que size
+21:51:20,910 root INFO producer: 13 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,913 root INFO producer: 13 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:20,917 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,923 root INFO producer: 9 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,930 root INFO error, max que size
+21:51:20,934 root INFO producer: 7 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,941 root INFO producer: 11 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,942 root INFO error, max que size
+21:51:20,943 root INFO producer: 18 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,944 root INFO error, max que size
+21:51:20,946 root INFO error, max que size
+21:51:20,946 root INFO error, max que size
+21:51:20,948 root INFO producer: 21 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:20,949 root INFO producer: 4 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:20,950 root INFO producer: 4 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:20,952 root INFO error, max que size
+21:51:20,953 root INFO error, max que size
+21:51:20,954 root INFO error, max que size
+21:51:20,956 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,957 root INFO producer: 1 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:20,958 root INFO error, max que size
+21:51:20,960 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,961 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,962 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,963 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,964 root INFO producer: 5 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,966 root INFO producer: 11 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,967 root INFO error, max que size
+21:51:20,969 root INFO producer: 21 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:20,970 root INFO producer: 14 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,972 root INFO producer: 14 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,974 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,976 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:20,978 root INFO producer: 2 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,981 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:20,982 root INFO error, max que size
+21:51:20,984 root INFO error, max que size
+21:51:20,986 root INFO producer: 5 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,987 root INFO producer: 1 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,988 root INFO producer: 14 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,989 root INFO producer: 15 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:20,989 root INFO producer: 13 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:20,990 root INFO producer: 5 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:20,991 root INFO producer: 10 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,992 root INFO error, max que size
+21:51:20,992 root INFO error, max que size
+21:51:20,993 root INFO error, max que size
+21:51:20,993 root INFO error, max que size
+21:51:20,994 root INFO producer: 5 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:20,995 root INFO error, max que size
+21:51:20,996 root INFO error, max que size
+21:51:20,996 root INFO order placed successfully
+21:51:20,996 root INFO error, max que size

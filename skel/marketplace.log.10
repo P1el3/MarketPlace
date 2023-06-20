@@ -1,0 +1,961 @@
+21:51:08,264 root INFO producer: 42 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,356 root INFO producer: 42 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,357 root INFO producer: 42 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,360 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 178
+21:51:08,364 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 178
+21:51:08,367 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 178
+21:51:08,370 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 178
+21:51:08,371 root INFO product: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') removed from cart: 178
+21:51:08,371 root INFO producer: 7 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,373 root INFO product: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') removed from cart: 179
+21:51:08,373 root INFO producer: 3 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,376 root INFO producer: 12 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,377 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 28
+21:51:08,378 root INFO producer: 40 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,379 root INFO producer: 40 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,379 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 164
+21:51:08,380 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 164
+21:51:08,381 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 191
+21:51:08,382 root INFO producer: 34 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,383 root INFO producer: 1 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,383 root INFO producer: 15 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,384 root INFO producer: 41 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,385 root INFO producer: 35 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,386 root INFO producer: 40 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,387 root INFO product Tea(name='White Peach', price=5, type='White') in cart 156
+21:51:08,388 root INFO product Tea(name='White Peach', price=5, type='White') in cart 156
+21:51:08,389 root INFO order placed successfully
+21:51:08,389 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 35
+21:51:08,390 root INFO new cart with id: 215
+21:51:08,390 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 35
+21:51:08,392 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 35
+21:51:08,392 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 35
+21:51:08,393 root INFO producer: 17 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,395 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 155
+21:51:08,396 root INFO producer: 18 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,397 root INFO producer: 24 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,397 root INFO producer: 31 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,398 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,399 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,400 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 153
+21:51:08,400 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 137
+21:51:08,401 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 137
+21:51:08,402 root INFO product Tea(name='White Peach', price=5, type='White') in cart 97
+21:51:08,403 root INFO product Tea(name='White Peach', price=5, type='White') in cart 97
+21:51:08,404 root INFO product Tea(name='White Peach', price=5, type='White') in cart 44
+21:51:08,404 root INFO product Tea(name='White Peach', price=5, type='White') in cart 44
+21:51:08,405 root INFO producer: 7 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,406 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 133
+21:51:08,407 root INFO producer: 2 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,408 root INFO producer: 27 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,410 root INFO producer: 27 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,411 root INFO producer: 30 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,413 root INFO producer: 30 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,415 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 104
+21:51:08,417 root INFO producer: 20 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,418 root INFO producer: 5 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,420 root INFO product Tea(name='White Peach', price=5, type='White') in cart 17
+21:51:08,421 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 10
+21:51:08,422 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 182
+21:51:08,423 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 182
+21:51:08,424 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 182
+21:51:08,426 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 182
+21:51:08,426 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 173
+21:51:08,428 root INFO producer: 21 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,429 root INFO producer: 43 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,431 root INFO producer: 43 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,432 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,435 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 30
+21:51:08,436 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 30
+21:51:08,439 root INFO producer: 44 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,440 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 54
+21:51:08,442 root INFO order placed successfully
+21:51:08,443 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 115
+21:51:08,444 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 113
+21:51:08,445 root INFO producer: 48 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,447 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,449 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 102
+21:51:08,451 root INFO producer: 28 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,453 root INFO producer: 12 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,455 root INFO producer: 12 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,457 root INFO producer: 32 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,459 root INFO producer: 3 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,460 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,462 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 201
+21:51:08,463 root INFO producer: 40 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,474 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 192
+21:51:08,476 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 197
+21:51:08,478 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 197
+21:51:08,480 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 197
+21:51:08,481 root INFO producer: 42 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,482 root INFO producer: 18 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,484 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 145
+21:51:08,484 root INFO producer: 0 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,486 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 15
+21:51:08,487 root INFO order placed successfully
+21:51:08,487 root INFO producer: 19 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,488 root INFO new cart with id: 216
+21:51:08,489 root INFO product Tea(name='White Peach', price=5, type='White') in cart 18
+21:51:08,491 root INFO product Tea(name='White Peach', price=5, type='White') in cart 18
+21:51:08,492 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 118
+21:51:08,493 root INFO producer: 47 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,493 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,494 root INFO producer: 19 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,495 root INFO producer: 10 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,496 root INFO producer: 10 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,497 root INFO producer: 10 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,498 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 88
+21:51:08,499 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 185
+21:51:08,499 root INFO producer: 42 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,500 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,501 root INFO producer: 22 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,502 root INFO producer: 23 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,502 root INFO producer: 36 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,503 root INFO producer: 36 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,504 root INFO producer: 36 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,504 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 81
+21:51:08,505 root INFO producer: 9 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,506 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 117
+21:51:08,507 root INFO producer: 1 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,508 root INFO producer: 21 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,508 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 49
+21:51:08,509 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 49
+21:51:08,510 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,510 root INFO producer: 37 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,511 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,512 root INFO producer: 44 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,513 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 209
+21:51:08,513 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 100
+21:51:08,514 root INFO producer: 41 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,515 root INFO producer: 12 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,516 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 203
+21:51:08,517 root INFO producer: 12 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,519 root INFO producer: 35 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,520 root INFO producer: 18 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,521 root INFO producer: 18 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,521 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 181
+21:51:08,522 root INFO product: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') removed from cart: 181
+21:51:08,522 root INFO producer: 1 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,524 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 79
+21:51:08,525 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 79
+21:51:08,525 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 79
+21:51:08,526 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 79
+21:51:08,527 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 79
+21:51:08,527 root INFO order placed successfully
+21:51:08,527 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 43
+21:51:08,529 root INFO product: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') removed from cart: 43
+21:51:08,529 root INFO producer: 14 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,531 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 193
+21:51:08,532 root INFO producer: 20 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,533 root INFO producer: 20 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,534 root INFO producer: 20 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,535 root INFO producer: 13 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,535 root INFO producer: 25 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,537 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,537 root INFO producer: 29 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,538 root INFO product Tea(name='White Peach', price=5, type='White') in cart 61
+21:51:08,539 root INFO product Tea(name='White Peach', price=5, type='White') in cart 61
+21:51:08,539 root INFO producer: 49 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,540 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 14
+21:51:08,541 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 14
+21:51:08,541 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 14
+21:51:08,542 root INFO producer: 17 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,543 root INFO product Tea(name='White Peach', price=5, type='White') in cart 71
+21:51:08,544 root INFO producer: 24 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,545 root INFO producer: 4 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,546 root INFO producer: 25 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,547 root INFO producer: 38 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,547 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 1
+21:51:08,548 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 1
+21:51:08,552 root INFO order placed successfully
+21:51:08,552 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 27
+21:51:08,553 root INFO new cart with id: 217
+21:51:08,554 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 27
+21:51:08,556 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,557 root INFO producer: 42 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,558 root INFO producer: 42 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,558 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 198
+21:51:08,559 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 198
+21:51:08,559 root INFO producer: 22 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,561 root INFO producer: 22 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,561 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 103
+21:51:08,562 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 130
+21:51:08,563 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 130
+21:51:08,564 root INFO producer: 26 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,565 root INFO producer: 39 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,565 root INFO producer: 45 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,567 root INFO producer: 45 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,567 root INFO producer: 45 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,568 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 166
+21:51:08,569 root INFO producer: 26 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,570 root INFO order placed successfully
+21:51:08,570 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,572 root INFO producer: 12 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,572 root INFO producer: 35 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,573 root INFO producer: 35 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,574 root INFO producer: 1 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,574 root INFO producer: 2 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,575 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 3
+21:51:08,576 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 3
+21:51:08,577 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 3
+21:51:08,578 root INFO order placed successfully
+21:51:08,578 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 41
+21:51:08,578 root INFO new cart with id: 218
+21:51:08,579 root INFO order placed successfully
+21:51:08,580 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 124
+21:51:08,581 root INFO new cart with id: 219
+21:51:08,582 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 39
+21:51:08,584 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 39
+21:51:08,586 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 52
+21:51:08,588 root INFO producer: 11 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,589 root INFO producer: 11 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,591 root INFO producer: 11 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,592 root INFO producer: 25 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,593 root INFO producer: 41 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,593 root INFO product: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') removed from cart: 38
+21:51:08,594 root INFO producer: 29 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,596 root INFO producer: 29 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,597 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 125
+21:51:08,599 root INFO producer: 25 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,600 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 212
+21:51:08,600 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 155
+21:51:08,601 root INFO order placed successfully
+21:51:08,602 root INFO producer: 4 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,604 root INFO producer: 40 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,605 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 59
+21:51:08,606 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 217
+21:51:08,607 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,608 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,609 root INFO producer: 19 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,609 root INFO producer: 5 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,611 root INFO producer: 5 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,613 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 144
+21:51:08,614 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 144
+21:51:08,615 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 144
+21:51:08,616 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 78
+21:51:08,617 root INFO producer: 1 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,619 root INFO producer: 1 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,621 root INFO producer: 41 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,621 root INFO product: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') removed from cart: 127
+21:51:08,622 root INFO producer: 46 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,625 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 5
+21:51:08,627 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 5
+21:51:08,663 root INFO producer: 27 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,763 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,774 root INFO producer: 19 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,778 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,787 root INFO producer: 36 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,789 root INFO producer: 36 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,790 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 147
+21:51:08,793 root INFO producer: 15 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,794 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 218
+21:51:08,795 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 218
+21:51:08,796 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 218
+21:51:08,797 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 219
+21:51:08,798 root INFO producer: 12 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,800 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 146
+21:51:08,801 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 32
+21:51:08,804 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,805 root INFO producer: 46 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,806 root INFO order placed successfully
+21:51:08,806 root INFO product Tea(name='White Peach', price=5, type='White') in cart 29
+21:51:08,809 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 106
+21:51:08,810 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,811 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,812 root INFO producer: 19 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,813 root INFO producer: 33 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,814 root INFO producer: 33 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,815 root INFO producer: 33 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,816 root INFO producer: 26 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,816 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 150
+21:51:08,818 root INFO producer: 37 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,819 root INFO producer: 37 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,819 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,820 root INFO producer: 46 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,821 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 210
+21:51:08,822 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 210
+21:51:08,823 root INFO order placed successfully
+21:51:08,823 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 166
+21:51:08,824 root INFO new cart with id: 220
+21:51:08,825 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,827 root INFO producer: 43 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,828 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 170
+21:51:08,828 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 170
+21:51:08,829 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 170
+21:51:08,830 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 88
+21:51:08,831 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 88
+21:51:08,832 root INFO product: Tea(name='Pai Mu Tan', price=9, type='White') removed from cart: 88
+21:51:08,833 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 26
+21:51:08,834 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 53
+21:51:08,835 root INFO producer: 31 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:08,836 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 143
+21:51:08,836 root INFO producer: 25 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,837 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 99
+21:51:08,838 root INFO producer: 4 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,839 root INFO producer: 2 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,839 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 105
+21:51:08,841 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,842 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 52
+21:51:08,843 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,844 root INFO producer: 44 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,845 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 2
+21:51:08,846 root INFO producer: 15 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,848 root INFO producer: 41 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,850 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 186
+21:51:08,851 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 211
+21:51:08,852 root INFO producer: 20 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,852 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 65
+21:51:08,854 root INFO producer: 47 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,854 root INFO producer: 40 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,856 root INFO producer: 40 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,856 root INFO producer: 40 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,857 root INFO producer: 27 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,858 root INFO producer: 27 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,858 root INFO producer: 41 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,859 root INFO product: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') removed from cart: 178
+21:51:08,859 root INFO producer: 19 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,861 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 193
+21:51:08,862 root INFO producer: 41 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,862 root INFO product: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') removed from cart: 179
+21:51:08,862 root INFO producer: 38 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,864 root INFO producer: 10 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,864 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 157
+21:51:08,865 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 157
+21:51:08,866 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 157
+21:51:08,866 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 157
+21:51:08,867 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 201
+21:51:08,868 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 201
+21:51:08,868 root INFO producer: 30 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,869 root INFO producer: 7 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,870 root INFO producer: 10 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,871 root INFO product Tea(name='White Peach', price=5, type='White') in cart 90
+21:51:08,872 root INFO product Tea(name='White Peach', price=5, type='White') in cart 90
+21:51:08,873 root INFO producer: 40 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,873 root INFO producer: 32 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,874 root INFO producer: 26 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,875 root INFO producer: 14 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,875 root INFO producer: 25 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,876 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,877 root INFO producer: 42 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,878 root INFO producer: 26 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,879 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 102
+21:51:08,880 root INFO order placed successfully
+21:51:08,880 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 14
+21:51:08,881 root INFO new cart with id: 221
+21:51:08,881 root INFO producer: 3 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,883 root INFO producer: 46 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,883 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 89
+21:51:08,884 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 89
+21:51:08,885 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 89
+21:51:08,886 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 89
+21:51:08,886 root INFO producer: 43 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,887 root INFO producer: 29 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,888 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 16
+21:51:08,889 root INFO producer: 45 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,889 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 172
+21:51:08,890 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 172
+21:51:08,891 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 101
+21:51:08,892 root INFO producer: 9 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,893 root INFO producer: 12 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,894 root INFO producer: 12 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,894 root INFO producer: 12 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,895 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 209
+21:51:08,896 root INFO producer: 25 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,898 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 99
+21:51:08,898 root INFO order placed successfully
+21:51:08,899 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,900 root INFO product Tea(name='White Peach', price=5, type='White') in cart 52
+21:51:08,901 root INFO product Tea(name='White Peach', price=5, type='White') in cart 52
+21:51:08,901 root INFO product Tea(name='White Peach', price=5, type='White') in cart 52
+21:51:08,902 root INFO producer: 49 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,903 root INFO producer: 49 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,904 root INFO producer: 34 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,904 root INFO producer: 20 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,905 root INFO producer: 0 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,906 root INFO producer: 0 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,906 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 63
+21:51:08,907 root INFO product: Tea(name='Vietnam Oolong', price=10, type='Oolong') removed from cart: 63
+21:51:08,907 root INFO producer: 48 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,909 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 205
+21:51:08,910 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 205
+21:51:08,911 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 205
+21:51:08,912 root INFO producer: 28 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,912 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,913 root INFO order placed successfully
+21:51:08,913 root INFO producer: 17 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,914 root INFO new cart with id: 222
+21:51:08,914 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 183
+21:51:08,916 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 194
+21:51:08,917 root INFO producer: 35 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,918 root INFO product: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') removed from cart: 181
+21:51:08,918 root INFO producer: 36 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,919 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 157
+21:51:08,920 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,921 root INFO order placed successfully
+21:51:08,921 root INFO producer: 30 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,922 root INFO new cart with id: 223
+21:51:08,922 root INFO producer: 30 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,924 root INFO producer: 4 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,926 root INFO producer: 22 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,926 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 184
+21:51:08,927 root INFO product Tea(name='White Peach', price=5, type='White') in cart 184
+21:51:08,928 root INFO producer: 26 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,929 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 189
+21:51:08,930 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 162
+21:51:08,931 root INFO producer: 34 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,931 root INFO producer: 33 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,933 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 131
+21:51:08,934 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 131
+21:51:08,935 root INFO producer: 42 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,936 root INFO producer: 41 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,937 root INFO order placed successfully
+21:51:08,937 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 221
+21:51:08,938 root INFO new cart with id: 224
+21:51:08,940 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,941 root INFO producer: 43 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,942 root INFO producer: 29 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,943 root INFO producer: 29 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,943 root INFO producer: 39 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,944 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 26
+21:51:08,945 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 26
+21:51:08,945 root INFO producer: 11 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,946 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 116
+21:51:08,947 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 33
+21:51:08,948 root INFO producer: 35 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,949 root INFO producer: 24 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,949 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,950 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 176
+21:51:08,951 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 82
+21:51:08,951 root INFO product: Tea(name='Vietnam Oolong', price=10, type='Oolong') removed from cart: 82
+21:51:08,951 root INFO producer: 22 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,952 root INFO producer: 22 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,953 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 124
+21:51:08,954 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 124
+21:51:08,954 root INFO producer: 34 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,955 root INFO product Tea(name='White Peach', price=5, type='White') in cart 71
+21:51:08,956 root INFO product Tea(name='White Peach', price=5, type='White') in cart 71
+21:51:08,956 root INFO producer: 9 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,957 root INFO producer: 12 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,958 root INFO producer: 48 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,958 root INFO producer: 21 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,959 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 202
+21:51:08,959 root INFO product: Tea(name='Pai Mu Tan', price=9, type='White') removed from cart: 202
+21:51:08,960 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,961 root INFO product: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') removed from cart: 178
+21:51:08,961 root INFO producer: 28 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:08,963 root INFO producer: 17 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:08,964 root INFO producer: 10 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:08,965 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 207
+21:51:08,965 root INFO producer: 25 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:08,966 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 171
+21:51:08,967 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 171
+21:51:08,967 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 5
+21:51:08,968 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 5
+21:51:08,969 root INFO producer: 41 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,970 root INFO product Tea(name='White Peach', price=5, type='White') in cart 173
+21:51:08,970 root INFO order placed successfully
+21:51:08,971 root INFO producer: 41 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:08,972 root INFO order placed successfully
+21:51:08,972 root INFO product Tea(name='White Peach', price=5, type='White') in cart 184
+21:51:08,973 root INFO new cart with id: 225
+21:51:08,974 root INFO producer: 24 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,975 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 35
+21:51:08,976 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 201
+21:51:08,977 root INFO order placed successfully
+21:51:08,977 root INFO producer: 4 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,978 root INFO new cart with id: 226
+21:51:08,978 root INFO producer: 4 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,980 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 161
+21:51:08,981 root INFO producer: 24 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,982 root INFO order placed successfully
+21:51:08,982 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 78
+21:51:08,983 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 114
+21:51:08,984 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 114
+21:51:08,985 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 224
+21:51:08,985 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 224
+21:51:08,986 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 224
+21:51:08,987 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 224
+21:51:08,987 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 224
+21:51:08,988 root INFO product Tea(name='White Peach', price=5, type='White') in cart 224
+21:51:08,989 root INFO product Tea(name='White Peach', price=5, type='White') in cart 224
+21:51:08,989 root INFO product: Tea(name='White Peach', price=5, type='White') removed from cart: 224
+21:51:08,990 root INFO producer: 18 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,991 root INFO producer: 18 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,991 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:08,992 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 33
+21:51:08,993 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:08,993 root INFO producer: 1 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,994 root INFO producer: 12 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,995 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 10
+21:51:08,996 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 125
+21:51:08,996 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 40
+21:51:08,997 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 167
+21:51:08,998 root INFO producer: 49 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:08,999 root INFO producer: 20 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:08,999 root INFO producer: 31 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,0 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 145
+21:51:09,1 root INFO producer: 9 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,2 root INFO producer: 20 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,3 root INFO producer: 48 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,3 root INFO producer: 2 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,4 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 96
+21:51:09,5 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 96
+21:51:09,5 root INFO order placed successfully
+21:51:09,6 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,7 root INFO order placed successfully
+21:51:09,9 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 101
+21:51:09,9 root INFO new cart with id: 227
+21:51:09,10 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 101
+21:51:09,11 root INFO producer: 35 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,12 root INFO producer: 11 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,13 root INFO product: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') removed from cart: 181
+21:51:09,13 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 223
+21:51:09,14 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 223
+21:51:09,15 root INFO producer: 36 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,15 root INFO producer: 49 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,16 root INFO producer: 45 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,17 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 188
+21:51:09,17 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 188
+21:51:09,18 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,19 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 45
+21:51:09,20 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 76
+21:51:09,20 root INFO producer: 2 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,21 root INFO producer: 2 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,22 root INFO producer: 2 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,22 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 113
+21:51:09,23 root INFO product: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') removed from cart: 113
+21:51:09,23 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,24 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,25 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 114
+21:51:09,26 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 114
+21:51:09,26 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,27 root INFO producer: 37 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,28 root INFO producer: 14 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,29 root INFO producer: 34 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,30 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,30 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 65
+21:51:09,31 root INFO producer: 35 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,32 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 138
+21:51:09,33 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 138
+21:51:09,33 root INFO producer: 5 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,34 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 167
+21:51:09,35 root INFO producer: 47 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,35 root INFO producer: 9 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,36 root INFO product Tea(name='White Peach', price=5, type='White') in cart 17
+21:51:09,37 root INFO producer: 9 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,37 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,38 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 134
+21:51:09,39 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 134
+21:51:09,39 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 207
+21:51:09,40 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 133
+21:51:09,41 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 133
+21:51:09,41 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 133
+21:51:09,42 root INFO product: Tea(name='Pai Mu Tan', price=9, type='White') removed from cart: 133
+21:51:09,42 root INFO producer: 25 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,43 root INFO producer: 38 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,44 root INFO producer: 13 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,45 root INFO producer: 36 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,45 root INFO producer: 5 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,46 root INFO order placed successfully
+21:51:09,46 root INFO producer: 45 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,47 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 187
+21:51:09,48 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 187
+21:51:09,48 root INFO product Tea(name='White Peach', price=5, type='White') in cart 187
+21:51:09,49 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,50 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 194
+21:51:09,50 root INFO producer: 41 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:09,51 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 213
+21:51:09,52 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,53 root INFO producer: 17 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,53 root INFO producer: 40 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,54 root INFO producer: 40 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,55 root INFO producer: 42 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,55 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 110
+21:51:09,56 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 110
+21:51:09,56 root INFO order placed successfully
+21:51:09,56 root INFO producer: 10 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,58 root INFO producer: 35 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,58 root INFO producer: 7 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,59 root INFO producer: 32 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,60 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,61 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 81
+21:51:09,61 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 81
+21:51:09,62 root INFO order placed successfully
+21:51:09,62 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 130
+21:51:09,63 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 125
+21:51:09,64 root INFO producer: 4 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,65 root INFO producer: 34 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,66 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 72
+21:51:09,66 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 134
+21:51:09,67 root INFO product Tea(name='White Peach', price=5, type='White') in cart 101
+21:51:09,68 root INFO product Tea(name='White Peach', price=5, type='White') in cart 18
+21:51:09,68 root INFO product: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') removed from cart: 18
+21:51:09,69 root INFO producer: 2 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,70 root INFO producer: 11 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,70 root INFO order placed successfully
+21:51:09,71 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 222
+21:51:09,71 root INFO new cart with id: 228
+21:51:09,72 root INFO producer: 45 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,73 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 188
+21:51:09,74 root INFO producer: 40 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,75 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 192
+21:51:09,75 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 192
+21:51:09,76 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 192
+21:51:09,77 root INFO producer: 26 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,78 root INFO producer: 26 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,80 root INFO producer: 42 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,81 root INFO producer: 42 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,82 root INFO producer: 42 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,84 root INFO producer: 35 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,86 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 153
+21:51:09,87 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 153
+21:51:09,88 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 153
+21:51:09,88 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 153
+21:51:09,89 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 153
+21:51:09,90 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 153
+21:51:09,91 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 153
+21:51:09,92 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 153
+21:51:09,92 root INFO producer: 20 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,94 root INFO producer: 0 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,95 root INFO producer: 45 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,96 root INFO product Tea(name='White Peach', price=5, type='White') in cart 101
+21:51:09,97 root INFO producer: 25 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,98 root INFO producer: 18 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,98 root INFO producer: 20 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,99 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 105
+21:51:09,101 root INFO producer: 1 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,101 root INFO producer: 26 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,103 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 66
+21:51:09,104 root INFO producer: 17 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,105 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 171
+21:51:09,106 root INFO producer: 24 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,106 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 118
+21:51:09,108 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 118
+21:51:09,109 root INFO producer: 21 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:09,110 root INFO producer: 24 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,111 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 226
+21:51:09,112 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 226
+21:51:09,113 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 226
+21:51:09,114 root INFO product: Tea(name='Vietnam Oolong', price=10, type='Oolong') removed from cart: 226
+21:51:09,114 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 211
+21:51:09,116 root INFO producer: 21 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,117 root INFO producer: 44 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,118 root INFO product: Tea(name='Pai Mu Tan', price=9, type='White') removed from cart: 88
+21:51:09,119 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 57
+21:51:09,121 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 14
+21:51:09,121 root INFO product: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') removed from cart: 14
+21:51:09,122 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,123 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,124 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,125 root INFO producer: 9 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,126 root INFO producer: 39 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,126 root INFO producer: 7 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,127 root INFO producer: 33 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,128 root INFO order placed successfully
+21:51:09,128 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 114
+21:51:09,129 root INFO new cart with id: 229
+21:51:09,130 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 114
+21:51:09,132 root INFO order placed successfully
+21:51:09,133 root INFO producer: 11 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,133 root INFO new cart with id: 230
+21:51:09,134 root INFO product: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') removed from cart: 18
+21:51:09,134 root INFO producer: 15 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,137 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,138 root INFO producer: 27 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,139 root INFO producer: 38 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,140 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 25
+21:51:09,141 root INFO product: Tea(name='Pai Mu Tan', price=9, type='White') removed from cart: 25
+21:51:09,141 root INFO producer: 1 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,144 root INFO producer: 2 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:09,145 root INFO producer: 24 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,145 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 66
+21:51:09,147 root INFO product: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') removed from cart: 66
+21:51:09,147 root INFO producer: 29 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,149 root INFO producer: 47 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,150 root INFO producer: 44 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,151 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 58
+21:51:09,152 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 77
+21:51:09,153 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 77
+21:51:09,154 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 221
+21:51:09,155 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 221
+21:51:09,156 root INFO producer: 21 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:09,157 root INFO product Tea(name='White Peach', price=5, type='White') in cart 44
+21:51:09,158 root INFO product Tea(name='White Peach', price=5, type='White') in cart 44
+21:51:09,159 root INFO product Tea(name='White Peach', price=5, type='White') in cart 44
+21:51:09,160 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 44
+21:51:09,162 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 193
+21:51:09,163 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 95
+21:51:09,164 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 183
+21:51:09,165 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 183
+21:51:09,166 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 183
+21:51:09,167 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 183
+21:51:09,168 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 183
+21:51:09,169 root INFO order placed successfully
+21:51:09,169 root INFO producer: 39 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,170 root INFO new cart with id: 231
+21:51:09,172 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,174 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,175 root INFO producer: 6 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,176 root INFO producer: 1 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,177 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 74
+21:51:09,179 root INFO producer: 30 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,180 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,181 root INFO producer: 40 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,182 root INFO producer: 39 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,184 root INFO producer: 40 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,184 root INFO producer: 40 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,186 root INFO product Tea(name='White Peach', price=5, type='White') in cart 60
+21:51:09,187 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 229
+21:51:09,188 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 229
+21:51:09,189 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 229
+21:51:09,189 root INFO producer: 46 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,190 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 194
+21:51:09,191 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 194
+21:51:09,193 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 194
+21:51:09,194 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 194
+21:51:09,195 root INFO product: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') removed from cart: 194
+21:51:09,195 root INFO producer: 25 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,197 root INFO producer: 15 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,197 root INFO producer: 34 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,198 root INFO producer: 27 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,200 root INFO producer: 42 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,202 root INFO producer: 18 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,203 root INFO producer: 27 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,204 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 199
+21:51:09,205 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 199
+21:51:09,206 root INFO producer: 37 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,207 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 35
+21:51:09,208 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 2
+21:51:09,209 root INFO producer: 25 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,210 root INFO producer: 29 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,211 root INFO producer: 29 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,212 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 100
+21:51:09,213 root INFO producer: 43 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,213 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,214 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,215 root INFO producer: 19 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,217 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 222
+21:51:09,217 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 222
+21:51:09,218 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 222
+21:51:09,219 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 222
+21:51:09,220 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 222
+21:51:09,220 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 222
+21:51:09,221 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 118
+21:51:09,222 root INFO producer: 14 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,223 root INFO producer: 37 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,224 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 144
+21:51:09,226 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 161
+21:51:09,227 root INFO producer: 20 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,228 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 206
+21:51:09,229 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 92
+21:51:09,230 root INFO order placed successfully
+21:51:09,230 root INFO new cart with id: 232
+21:51:09,230 root INFO producer: 4 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,232 root INFO producer: 37 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,233 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 67
+21:51:09,234 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 67
+21:51:09,235 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 189
+21:51:09,236 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 189
+21:51:09,237 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 189
+21:51:09,238 root INFO product: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') removed from cart: 189
+21:51:09,238 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 56
+21:51:09,239 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 191
+21:51:09,240 root INFO producer: 7 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,241 root INFO producer: 3 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,242 root INFO product Tea(name='White Peach', price=5, type='White') in cart 52
+21:51:09,244 root INFO product Tea(name='White Peach', price=5, type='White') in cart 21
+21:51:09,245 root INFO producer: 18 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,247 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 93
+21:51:09,248 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 93
+21:51:09,249 root INFO order placed successfully
+21:51:09,252 root INFO new cart with id: 233
+21:51:09,250 root INFO producer: 49 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,255 root INFO producer: 29 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,256 root INFO producer: 5 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,258 root INFO product: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') removed from cart: 14
+21:51:09,259 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 89
+21:51:09,261 root INFO producer: 30 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,266 root INFO producer: 39 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,270 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 145
+21:51:09,271 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 145
+21:51:09,273 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 101
+21:51:09,277 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 101
+21:51:09,279 root INFO product: Tea(name='White Peach', price=5, type='White') removed from cart: 101
+21:51:09,280 root INFO producer: 46 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,282 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 78
+21:51:09,282 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 186
+21:51:09,283 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 10
+21:51:09,284 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,285 root INFO producer: 11 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,286 root INFO order placed successfully
+21:51:09,286 root INFO producer: 7 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,287 root INFO new cart with id: 234
+21:51:09,288 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 135
+21:51:09,289 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 36
+21:51:09,290 root INFO producer: 27 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,292 root INFO producer: 42 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,294 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,295 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,296 root INFO producer: 11 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,297 root INFO order placed successfully
+21:51:09,298 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 112
+21:51:09,298 root INFO new cart with id: 235
+21:51:09,300 root INFO producer: 36 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,302 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,303 root INFO producer: 37 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,304 root INFO product: Tea(name='Jasmine', price=6, type='Green') removed from cart: 198
+21:51:09,305 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 171
+21:51:09,306 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 171
+21:51:09,307 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 171
+21:51:09,307 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 171
+21:51:09,308 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 171
+21:51:09,309 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 171
+21:51:09,310 root INFO order placed successfully
+21:51:09,310 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 73
+21:51:09,313 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 30
+21:51:09,314 root INFO producer: 35 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,314 root INFO producer: 14 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,315 root INFO producer: 14 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,316 root INFO producer: 32 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,316 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,317 root INFO product Tea(name='White Peach', price=5, type='White') in cart 17
+21:51:09,318 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 17
+21:51:09,319 root INFO producer: 20 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,320 root INFO producer: 17 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,322 root INFO producer: 38 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,323 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 232
+21:51:09,324 root INFO producer: 48 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,325 root INFO producer: 3 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,326 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 185
+21:51:09,327 root INFO producer: 22 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,328 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 152
+21:51:09,329 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 152
+21:51:09,330 root INFO product: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') removed from cart: 152
+21:51:09,330 root INFO producer: 24 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:09,331 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 218
+21:51:09,332 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 72
+21:51:09,333 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 225
+21:51:09,334 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 225
+21:51:09,336 root INFO producer: 26 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,337 root INFO producer: 13 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,338 root INFO order placed successfully
+21:51:09,338 root INFO product Tea(name='White Peach', price=5, type='White') in cart 52
+21:51:09,339 root INFO new cart with id: 236
+21:51:09,340 root INFO order placed successfully
+21:51:09,341 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 23
+21:51:09,343 root INFO new cart with id: 237
+21:51:09,344 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 129
+21:51:09,346 root INFO producer: 27 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,347 root INFO producer: 9 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,348 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 147
+21:51:09,349 root INFO producer: 12 has produced new item: Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM')
+21:51:09,350 root INFO producer: 11 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,352 root INFO producer: 11 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,355 root INFO producer: 23 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,356 root INFO product Coffee(name='Arabica', price=9, acidity=5.02, roast_level='MEDIUM') in cart 123
+21:51:09,357 root INFO producer: 4 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,358 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 182
+21:51:09,359 root INFO product: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') removed from cart: 182
+21:51:09,359 root INFO producer: 26 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,364 root INFO producer: 32 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,366 root INFO product: Tea(name='Pai Mu Tan', price=9, type='White') removed from cart: 202
+21:51:09,369 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 76
+21:51:09,371 root INFO producer: 13 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,372 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 122
+21:51:09,373 root INFO producer: 25 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,374 root INFO producer: 25 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,375 root INFO producer: 10 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,377 root INFO producer: 31 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,378 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 143
+21:51:09,379 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 32
+21:51:09,380 root INFO producer: 34 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,381 root INFO producer: 32 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,381 root INFO product: Tea(name='Pai Mu Tan', price=9, type='White') removed from cart: 133
+21:51:09,382 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 209
+21:51:09,383 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 87
+21:51:09,384 root INFO producer: 34 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,385 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,386 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,387 root INFO producer: 0 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,388 root INFO product Tea(name='White Peach', price=5, type='White') in cart 184
+21:51:09,389 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 175
+21:51:09,390 root INFO product Tea(name='White Peach', price=5, type='White') in cart 175
+21:51:09,391 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 45
+21:51:09,392 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 45
+21:51:09,393 root INFO producer: 2 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,394 root INFO producer: 15 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,395 root INFO producer: 19 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,395 root INFO producer: 19 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,396 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 165
+21:51:09,397 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 165
+21:51:09,397 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 165
+21:51:09,398 root INFO producer: 29 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,399 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 136
+21:51:09,400 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 160
+21:51:09,401 root INFO producer: 23 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,401 root INFO producer: 49 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:09,402 root INFO producer: 20 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,404 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 228
+21:51:09,404 root INFO product: Tea(name='English Breakfast', price=2, type='Black') removed from cart: 228
+21:51:09,404 root INFO producer: 43 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,406 root INFO producer: 33 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:09,406 root INFO producer: 33 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:09,407 root INFO producer: 33 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:09,408 root INFO producer: 10 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,408 root INFO producer: 48 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,409 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 221
+21:51:09,410 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 221
+21:51:09,411 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 221
+21:51:09,411 root INFO producer: 22 has produced new item: Tea(name='White Peach', price=5, type='White')
+21:51:09,412 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 121
+21:51:09,413 root INFO producer: 14 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,414 root INFO producer: 1 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,414 root INFO producer: 37 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,415 root INFO producer: 6 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,415 root INFO producer: 8 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,416 root INFO product: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') removed from cart: 189
+21:51:09,416 root INFO producer: 26 has produced new item: Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM')
+21:51:09,418 root INFO product Tea(name='White Peach', price=5, type='White') in cart 236
+21:51:09,418 root INFO product Tea(name='White Peach', price=5, type='White') in cart 236
+21:51:09,419 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 117
+21:51:09,420 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,420 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 237
+21:51:09,421 root INFO producer: 16 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,422 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 147
+21:51:09,422 root INFO product: Tea(name='Vietnam Oolong', price=10, type='Oolong') removed from cart: 147
+21:51:09,423 root INFO producer: 14 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,424 root INFO product Tea(name='English Breakfast', price=2, type='Black') in cart 230
+21:51:09,424 root INFO product Coffee(name='Brasil', price=7, acidity=5.09, roast_level='MEDIUM') in cart 125
+21:51:09,425 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 90
+21:51:09,426 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 90
+21:51:09,426 root INFO product Tea(name='Pai Mu Tan', price=9, type='White') in cart 90
+21:51:09,427 root INFO product: Tea(name='White Peach', price=5, type='White') removed from cart: 90
+21:51:09,427 root INFO producer: 40 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,428 root INFO producer: 18 has produced new item: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM')
+21:51:09,429 root INFO producer: 44 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,430 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 75
+21:51:09,430 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 75
+21:51:09,432 root INFO product: Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') removed from cart: 75
+21:51:09,433 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 227
+21:51:09,433 root INFO product Coffee(name='Robusta', price=3, acidity=5.0, roast_level='MEDIUM') in cart 227
+21:51:09,434 root INFO producer: 13 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,435 root INFO product Tea(name='Jasmine', price=6, type='Green') in cart 78
+21:51:09,435 root INFO order placed successfully
+21:51:09,436 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 95
+21:51:09,436 root INFO new cart with id: 238
+21:51:09,437 root INFO order placed successfully
+21:51:09,437 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 167
+21:51:09,439 root INFO product Tea(name='Vietnam Oolong', price=10, type='Oolong') in cart 167
+21:51:09,439 root INFO producer: 2 has produced new item: Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM')
+21:51:09,440 root INFO producer: 18 has produced new item: Tea(name='Pai Mu Tan', price=9, type='White')
+21:51:09,441 root INFO producer: 38 has produced new item: Tea(name='Vietnam Oolong', price=10, type='Oolong')
+21:51:09,441 root INFO producer: 45 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,442 root INFO producer: 45 has produced new item: Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM')
+21:51:09,443 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 103
+21:51:09,443 root INFO product Coffee(name='Ethiopia', price=10, acidity=5.09, roast_level='MEDIUM') in cart 103
+21:51:09,444 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 103
+21:51:09,445 root INFO product Coffee(name='Indonezia', price=1, acidity=5.05, roast_level='MEDIUM') in cart 103
+21:51:09,445 root INFO order placed successfully
+21:51:09,445 root INFO producer: 38 has produced new item: Tea(name='Jasmine', price=6, type='Green')
+21:51:09,447 root INFO producer: 40 has produced new item: Tea(name='English Breakfast', price=2, type='Black')
+21:51:09,446 root INFO new cart with id: 239
